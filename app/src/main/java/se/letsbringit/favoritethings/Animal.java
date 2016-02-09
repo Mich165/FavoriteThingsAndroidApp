@@ -32,7 +32,7 @@ public class Animal {
         this.description = desc;
     }
 
-    // Instansmetoder
+
     public int getImageId() {
         return imageId;
     }
